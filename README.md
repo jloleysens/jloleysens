@@ -1,6 +1,6 @@
-### dlrow olleh
+I like solving communication problems in code and in user experiences, which often involves writing code.
 
-I like solving communication problems in code, user experience and writing. Check out some of my code on Github and some of my writing on my <a href="https://sombrerob.ro/" target="_blank">blog</a>
+For other things I am interested in I also have a <a href="https://sombrerob.ro/" target="_blank">blog</a>.
 
 <!--
 **jloleysens/jloleysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
