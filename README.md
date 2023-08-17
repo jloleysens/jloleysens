@@ -1,6 +1,10 @@
 I like solving communication problems in code and in user experiences, which often involves writing code.
 
-For other things I am interested in I also have a <a href="https://sombrerob.ro/" target="_blank">blog</a>.
+For other things I am interested in I also have a <a href="https://jloleysens.github.io" target="_blank">blog</a>.
+
+<script>
+  window.alert('ok!')
+</script>
 
 <!--
 **jloleysens/jloleysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
